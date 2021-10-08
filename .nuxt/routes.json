@@ -3,7 +3,6 @@
     "name": "index",
     "path": "/",
     "component": "/Users/azuki/Workspace/work-tools/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_563c8704"
+    "chunkName": "pages/index"
   }
 ]
